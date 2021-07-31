@@ -5,4 +5,8 @@ public class Math {
     public int plus(int a, int b) {
         return a + b;
     }
+
+    public int divide(int a, int b) {
+        return a / b;
+    }
 }
